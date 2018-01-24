@@ -76,6 +76,7 @@ Device handlers are easy to implement and prove to be futureproof.
 * Alcatel Lucent: device_params={'name':'alu'}
 * H3C: device_params={'name':'h3c'}
 * HP Comware: device_params={'name':'hpcomware'}
+* GE MDS Orbit: device_params={'name':'orbit'}
 * Server or anything not in above: device_params={'name':'default'}
 
 
